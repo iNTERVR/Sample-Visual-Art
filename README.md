@@ -8,10 +8,19 @@
 ### 2.main-테스트
 *메인 바디 테스트*
 **메인 바디 테스트**
-_메인 바디 테스트_
+__메인 바디 테스트__
 *메인 아이템
   *아이템1
   *아이템2
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
 
 1. 아이템 1
 2. 아이템 2
