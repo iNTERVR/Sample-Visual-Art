@@ -1,4 +1,12 @@
-## 인터브이알 N번째 프로젝트
+## 인터브이알 Dev
+### InterFramework
+
+IF : https://github.com/iNTERVR/IF
+IF.VR : https://github.com/iNTERVR/IF.VR
+IF.VR.Glove : https://github.com/iNTERVR/IF.VR.Glove
+
+InterFramework(IF)는 [iNTERVR](https://nsu-intervr.com/)에서 [유니티](https://unity.com/)를 기반으로 하여 제작된 소프트웨어 개발 도구(SDK)입니다.
+
 ## VA
 ## 신규프로젝트
 ### 1.intro-테스트
