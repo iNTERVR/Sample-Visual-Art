@@ -1,11 +1,9 @@
 ## 인터브이알 Dev
 ### InterFramework
 
-IF : https://github.com/iNTERVR/IF
-IF.VR : https://github.com/iNTERVR/IF.VR
-IF.VR.Glove : https://github.com/iNTERVR/IF.VR.Glove
+InterFramework(IF)는 [iNTERVR]에서 [유니티]를 기반으로 하여 제작된 소프트웨어 개발 도구(SDK)입니다.
 
-InterFramework(IF)는 [iNTERVR](https://nsu-intervr.com/)에서 [유니티](https://unity.com/)를 기반으로 하여 제작된 소프트웨어 개발 도구(SDK)입니다.
+[IF], [IF.VR], [IF.VR.Glove]
 
 ## VA
 ## 신규프로젝트
@@ -83,3 +81,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+[iNTERVR]: https://nsu-intervr.com/
+[유니티]: https://unity3d.com/
+
+[IF]: https://github.com/iNTERVR/IF
+[IF.VR]: https://github.com/iNTERVR/IF.VR
+[IF.VR.Glove]: https://github.com/iNTERVR/IF.VR.Glove
